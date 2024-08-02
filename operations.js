@@ -20,4 +20,13 @@ console.log(2+"2");
 console.log("2"+2+2);
 console.log(2+2+"2");
 
+console.log(+true);
+
+console.log(+false);
+
+// console.log(true+); // it is not 
+
+
+
+
 
